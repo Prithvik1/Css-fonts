@@ -1,0 +1,12 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Borel&family=Open+Sans:wght@700&family=Phudu:wght@500&family=Poppins&display=swap');
+
+  #css {
+    font-variant: small-caps;
+    font-weight: 50;
+    font-style: oblique;
+  }
+  p{
+    font-size: 15px;
+  }
+
